@@ -20,3 +20,7 @@ export const formatEthAddress = (address: string) => {
 export const formatEthAddressX = (address: string) => {
   return "`" + address + "`";
 };
+
+export const formatEthAddressXY = (address: string) => {
+  return "`" + address + "`";
+};
