@@ -16,3 +16,7 @@ export const shortenEthAddress = (address: string, len: number) => {
 export const formatEthAddress = (address: string) => {
   return "`" + address + "`";
 };
+
+export const formatEthAddressX = (address: string) => {
+  return "`" + address + "`";
+};
